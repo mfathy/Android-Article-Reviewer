@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Android-Article-Reviewer</string>
+    <string name="label_start">Start</string>
+    <string name="label_dislike">Dislike</string>
+    <string name="label_like">Like</string>
+    <string name="error_no_articles">No Articles!</string>
+    <string name="label_empty_counter">()</string>
+    <string name="label_counter">(%1$s / %2$s)</string>
+    <string name="error_liking_article">Like article error, Please try again.</string>
+    <string name="error_like_article_generic">Generic error: Like article!</string>
+    <string name="error_disliking_article">Dislike article error, Please try again.</string>
+    <string name="error_dislike_article_generic">Generic error: Dislike article!</string>
+    <string name="label_congratulations">Congratulations</string>
+    <string name="label_congrats_message">You have finished the selection successfully</string>
+    <string name="label_ready_to_review">Ready to Review</string>
+    <string name="label_list">List</string>
+    <string name="label_grid">Grid</string>
+    <string name="label_activity_rating">Rate Articles</string>
+    <string name="label_activity_review">Review Choices</string>
+    <string name="label_resume_last_rating">Resume Last Rating</string>
+</resources>
